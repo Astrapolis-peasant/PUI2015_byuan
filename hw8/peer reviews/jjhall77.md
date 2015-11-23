@@ -6,6 +6,6 @@
 
 + Esthetically, I wish to have dotted lines between each interval so I can better tell where each point locate. 
 
-+The title is clear. 
++ The title is clear. 
 
 + I think the plot is clear and readable enough.
