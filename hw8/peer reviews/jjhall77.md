@@ -6,6 +6,8 @@
 
 + Esthetically, I wish to have dotted lines between each interval so I can better tell where each point locate. 
 
++ I would say the plot is honest and no deforming here.
+
 + The title is clear. 
 
 + I think the plot is clear and readable enough.

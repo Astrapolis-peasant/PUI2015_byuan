@@ -7,4 +7,6 @@
 
 + The title could be more clear because I do not know what kind of topic for age is by just reading the topic.
 
++ I would say the plot is honest and no deforming here.
+
 + I think the plot is clear and readable enough.
