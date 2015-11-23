@@ -1,4 +1,4 @@
-https://github.com/bonanyuan/PUI2015_byuan/blob/master/hw8/peer%20reviews/sarangof.png
+![](https://github.com/bonanyuan/PUI2015_byuan/blob/master/hw8/peer%20reviews/sarangof.png)
 
 + I thought that the plot was supposed to be made with data that was used for PUI classes or homeworks, it is a very interesting topic though.
 
