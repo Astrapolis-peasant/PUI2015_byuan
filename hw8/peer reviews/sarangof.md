@@ -6,6 +6,6 @@
 
 + Esthetically, the fonts could be bigger and the graph could be bigger
 
-+The title is clear. 
++ The title is clear. 
 
 + I think the plot is clear and readable enough.
