@@ -1,0 +1,54 @@
+your reviews were ok. it was not strictly required to make the plot with data from the class, so while it said so in the slides people had asked in both classes if it was ok to use other data and i agreed. but if not made with data from the class the plot still needs to be readable even if the reader is not familiar with the data, and that extra burden is on the person that makes the plot.
+
+
+NOTES ON YOUR PLOT
+===================
+
+while the plot is pretty it is very confusing. 
+
+the 3D does not add any information: the third axis is redundant with the blue shade. 
+
+the axis labels are too small (and one is cut) 
+
+the yield value for a single year cannot be read easily away from the 0 ad 30 year points. 
+
+the structure of the data hides some datapoints (obstruction) compromising clarity and possibly honesty
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+wh937
+============
+
+the plot says color blind compliant, but really the color blind compliance is only important when multiple colors are present. 
+
+spaces are missing between words and parenthesis in both label and title
+
+the 3D is actually justified but the position of the points in the 3d space is hard to read. i think the transparency is attempting to make it more clear but it does not increase readability and the lack of legend makes it confusing to understand its meaning
+
+axis ticks are too small
+
+
+jjhall
+============
+
+tick and axis labels are too small
+
+the colors indicate the structure in the data nicely but the three shades are not distinguishable by people affected by the most common color blind variety
+
+in general the default 3 datapoints in the legend should be substitute with a single point, as they are redundant, but in this case since the datapoints are small to allow to see the overlapping structure (presumably) the three datapoints are justified. 
+
+10^0 should be replaced with 1, 10^1 with 10
+
+
+sarangof
+============
+
+legend obfuscated by the plot
+
+the smoothing choice may show insignificant structure
+
+the plot is simple and generally clear enough
+  
